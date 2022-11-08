@@ -1,4 +1,4 @@
-# Background changer
+# Gnome Background Changer
 
 A simple script to change desktop background in gnome
 
